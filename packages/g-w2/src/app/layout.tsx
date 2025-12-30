@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Build anything from a chat",
-  description: "Turn chats into apps. Prompt. Ship. Repeat.",
+  title: "Gas Fee Tracker - Real-time Gas Prices",
+  description: "Track real-time gas fees across Ethereum, Base, Arbitrum, Optimism, Polygon, and zkSync Era. Find the cheapest chain for your transactions.",
 };
 
 export default function RootLayout({
@@ -32,3 +32,4 @@ export default function RootLayout({
     </html>
   );
 }
+
